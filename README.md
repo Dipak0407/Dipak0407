@@ -48,21 +48,22 @@ passion    : Turning ideas into clean, functional web experiences
 
 ---
 
+ 
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind,sass&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,kotlin,python,mysql,mongodb&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva,netlify,vercel,linux&theme=dark" />
 </p>
 
 ---
