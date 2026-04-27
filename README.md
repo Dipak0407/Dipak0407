@@ -48,6 +48,7 @@ passion    : Turning ideas into clean, functional web experiences
 
 ---
 
+ 
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -67,164 +68,74 @@ passion    : Turning ideas into clean, functional web experiences
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Projects
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="https://www.ummeed.org/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://www.ummeed.org/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20UMMEED-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> 🧡 Non-profit platform for child development & disability support
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<a href="https://www.ummeed.org/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://www.greenply.com/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://www.greenply.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%BF%20%20GREENPLY-22c55e?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> 🪵 Corporate site for India's leading plywood & interior brand
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<a href="https://www.greenply.com/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://class.afeias.com/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://class.afeias.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9A%20%20AFEIAS-8b5cf6?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> 🎓 Online learning platform for UPSC & competitive exams
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-<a href="https://class.afeias.com/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://workspace.dewsmentora.com/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://workspace.dewsmentora.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20DEWSMENTORA-f59e0b?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> 🧑‍💼 Mentorship & workspace for professional growth
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<a href="https://workspace.dewsmentora.com/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://glucond.in/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://glucond.in/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%92%8A%20%20GLUCOND-ef4444?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> ❤️‍🩹 Health product site for glucose & wellness solutions
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<a href="https://glucond.in/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://www.ledo.solutions/" target="_blank">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=flat-square" width="100%"/>
-</a>
-
-<h3>
-  <a href="https://www.ledo.solutions/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9A%A1%20%20LEDO%20INDIA-06b6d4?style=for-the-badge&labelColor=0f172a" />
-  </a>
-</h3>
-
-> 💡 Tech solutions company — services & digital expertise
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<a href="https://www.ledo.solutions/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20Live%20Site-38BDF8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.ummeed.org/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=ummeed.org&sz=64" width="48" height="48" alt="Ummeed favicon" /><br/>
+        <b>Ummeed</b>
+      </a><br/>
+      <sub>Non-profit web platform focused on child development and disability support</sub><br/><br/>
+      <a href="https://www.ummeed.org/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.greenply.com/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=greenply.com&sz=64" width="48" height="48" alt="Greenply favicon" /><br/>
+        <b>Greenply</b>
+      </a><br/>
+      <sub>Corporate website for India's leading plywood & interior solutions brand</sub><br/><br/>
+      <a href="https://www.greenply.com/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://class.afeias.com/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=afeias.com&sz=64" width="48" height="48" alt="Afeias favicon" /><br/>
+        <b>Afeias</b>
+      </a><br/>
+      <sub>Online learning platform for UPSC and competitive exam preparation</sub><br/><br/>
+      <a href="https://class.afeias.com/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://workspace.dewsmentora.com/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=dewsmentora.com&sz=64" width="48" height="48" alt="Dewsmentora favicon" /><br/>
+        <b>Dewsmentora</b>
+      </a><br/>
+      <sub>Mentorship & workspace platform for guided professional growth</sub><br/><br/>
+      <a href="https://workspace.dewsmentora.com/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://glucond.in/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=glucond.in&sz=64" width="48" height="48" alt="Glucond favicon" /><br/>
+        <b>Glucond</b>
+      </a><br/>
+      <sub>Health-focused product website for glucose & wellness solutions</sub><br/><br/>
+      <a href="https://glucond.in/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.ledo.solutions/" target="_blank">
+        <img src="https://www.google.com/s2/favicons?domain=ledo.solutions&sz=64" width="48" height="48" alt="Ledo India favicon" /><br/>
+        <b>Ledo India</b>
+      </a><br/>
+      <sub>Tech solutions company website showcasing services and expertise</sub><br/><br/>
+      <a href="https://www.ledo.solutions/">
+        <img src="https://img.shields.io/badge/Live%20Site-%2338BDF8.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
-
-</div>
 
 ---
 
